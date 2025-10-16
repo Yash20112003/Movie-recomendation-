@@ -35,9 +35,8 @@ This project implements a content-based movie recommendation system using the TM
 3. Run the Jupyter notebook or script to build the model and generate recommendations.
 4. Use the `recommend(movie_name)` function to get movie recommendations.
 
-## Example
 
-To get recommendations for the movie "Gandhi", you would run:
+
 
 ```python
 recommend('Gandhi')
